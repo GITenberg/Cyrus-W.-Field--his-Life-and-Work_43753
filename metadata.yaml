@@ -1,0 +1,28 @@
+_repo: Cyrus-W.-Field--his-Life-and-Work_43753
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43753-h/images/cover.jpg
+creator:
+  editor:
+    agent_name: Judson, Isabella Field
+    birthdate: 1846
+    gutenberg_agent_id: '42386'
+    url: http://www.gutenberg.org/2009/agents/42386
+description: ''
+gutenberg_issued: '2013-09-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43753'
+  lccn: '12034716'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Inventors -- United States -- Biography'
+- !lcc 'TK'
+- !lcsh 'Field, Cyrus W. (Cyrus West), 1819-1892'
+- !lcsh 'Cables, Submarine -- History'
+title: Cyrus W. Field, His Life and Work [1819-1892]
+url: http://www.gutenberg.org/ebooks/43753
